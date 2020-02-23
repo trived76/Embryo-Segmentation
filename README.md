@@ -1,6 +1,6 @@
 # Centroid calculation of the blastomere from 3D Z-Stack image data of a 2-cell mouse embryo
 
-The repository is currently update. Essentially, the repository contains the information about the following research paper.
+The repository is currently being updated, please visit it in a few weeks. Essentially, the repository contains the information about the following research paper.
 DOI: https://doi.org/10.1016/j.bspc.2019.101726
 
 ## Highlights
