@@ -21,8 +21,8 @@ If you find the work useful, please do not forget to cite it:
   author={Trivedi, Maharshi M and Mills, James K},
   journal={Biomedical Signal Processing and Control},
   volume={57},
-  pages={101726},
   year={2020},
-  publisher={Elsevier}
+  publisher={Elsevier},
+  doi={https://doi.org/10.1016/j.bspc.2019.101726}
 }
 ```
